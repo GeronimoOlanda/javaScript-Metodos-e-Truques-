@@ -1,0 +1,1 @@
+#### Uma serie de métodos entre outros elementos para facilitar a vida de desenvolvedor JS
